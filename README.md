@@ -2,11 +2,10 @@
 <h1 align="center">Hi 👋, I'm Sayali Sawant</h1>
 <h3 align="center"> Final-year Computer Engineering student looking to start a career in the IT industry.</h3>
 
+
 - 🔭 I’m currently pursuing **Final Year Engineering**
 
-- 🌱 I’m currently learning **Full Stack Development**
-
-- 💬 Ask me about **Python, HTML, CSS, SQL**
+- 💬 Ask me about **Python, HTML, CSS, Javascript, SQL**
 
 - 📫 How to reach me **sayalisawant277@gmail.com**
 
